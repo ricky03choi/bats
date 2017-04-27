@@ -1,11 +1,11 @@
 # bats
-CodeIgniter+bootstrap+icon_auth Management background
+CodeIgniter+bootstrap+icon_auth+smarty Management background
 
 
 CodeIgniter 
 
 bootstrap 前端
-
+smarty 模板模板引擎
 icon_auth  权限管理
 
 欢迎大家交流,完善
